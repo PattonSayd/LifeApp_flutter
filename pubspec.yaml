@@ -1,0 +1,56 @@
+name: lifeapp
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  animations: ^2.0.2
+  cupertino_icons: ^1.0.2
+  date_time_picker: ^2.1.0
+  dropdown_button2: ^1.4.0
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_screenutil: ^5.3.1
+  flutter_svg: ^1.0.3
+  intl: ^0.17.0
+  mask_text_input_formatter: ^2.3.0
+  otp_text_field: ^1.1.2
+  percent_indicator: ^4.0.0
+  qr_code_scanner: ^1.0.0
+  cached_network_image: ^3.2.1
+  camera: ^0.9.8
+  shared_preferences: ^2.0.15
+  barcode: ^2.2.1
+  get: ^4.6.5
+  dio: ^4.0.6
+  image_picker: ^0.8.5+3
+  scan: ^1.6.0
+  flutter_stories: ^0.3.1
+  flutter_inappwebview: ^5.4.3+7
+  html: ^0.15.1
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/svg/
+    - assets/images/
+    - assets/fonts/
+  fonts:
+    - family: EuclidCircularB
+      fonts:
+        - asset: assets/fonts/EuclidCircularBRegular.ttf
+        - asset: assets/fonts/EuclidCircularBMedium.ttf
+        - asset: assets/fonts/EuclidCircularBBold.ttf
+        - asset: assets/fonts/EuclidCircularBSemiBold.ttf

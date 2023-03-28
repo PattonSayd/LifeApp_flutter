@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lifeapp-mergeDebugResources-24:/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HelloHaystack\\.gradle\\caches\\transforms-3\\4b8fb62a8a5d73119a29d55a5bc7662d\\transformed\\browser-1.4.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,259,370",
+                        "endColumns": "102,100,110,98",
+                        "endOffsets": "153,254,365,464"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2827,2930,3031,3142",
+                        "endColumns": "102,100,110,98",
+                        "endOffsets": "2925,3026,3137,3236"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HelloHaystack\\.gradle\\caches\\transforms-3\\6bcfec596b645766dcdaf86eb5e5ac1c\\transformed\\core-1.8.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "42",
+                        "startColumns": "4",
+                        "startOffsets": "3814",
+                        "endColumns": "100",
+                        "endOffsets": "3910"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HelloHaystack\\.gradle\\caches\\transforms-3\\6f4cf8aad5e213a9b5f60f134afa41d1\\transformed\\appcompat-1.4.1\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,328,435,520,624,744,822,898,990,1084,1179,1273,1373,1467,1563,1658,1750,1842,1924,2035,2138,2237,2352,2466,2569,2724,2827",
+                        "endColumns": "117,104,106,84,103,119,77,75,91,93,94,93,99,93,95,94,91,91,81,110,102,98,114,113,102,154,102,82",
+                        "endOffsets": "218,323,430,515,619,739,817,893,985,1079,1174,1268,1368,1462,1558,1653,1745,1837,1919,2030,2133,2232,2347,2461,2564,2719,2822,2905"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,328,435,520,624,744,822,898,990,1084,1179,1273,1373,1467,1563,1658,1750,1842,1924,2035,2138,2237,2352,2466,2569,2724,3731",
+                        "endColumns": "117,104,106,84,103,119,77,75,91,93,94,93,99,93,95,94,91,91,81,110,102,98,114,113,102,154,102,82",
+                        "endOffsets": "218,323,430,515,619,739,817,893,985,1079,1174,1268,1368,1462,1558,1653,1745,1837,1919,2030,2133,2232,2347,2461,2564,2719,2822,3809"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HelloHaystack\\.gradle\\caches\\transforms-3\\ac5f60af50fc9da2a729bed97a1b8c65\\transformed\\jetified-scanplus-2.1.0.300\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,167,232,304,381,436,495",
+                        "endColumns": "46,64,64,71,76,54,58,49",
+                        "endOffsets": "97,162,227,299,376,431,490,540"
+                    },
+                    "to": {
+                        "startLines": "33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3241,3288,3353,3418,3490,3567,3622,3681",
+                        "endColumns": "46,64,64,71,76,54,58,49",
+                        "endOffsets": "3283,3348,3413,3485,3562,3617,3676,3726"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HelloHaystack\\.gradle\\caches\\transforms-3\\90656d5f0f6c6aa4dc6e96c15ce01763\\transformed\\jetified-zxing-android-embedded-4.3.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,312",
+                        "endColumns": "58,46,150,111",
+                        "endOffsets": "109,156,307,419"
+                    },
+                    "to": {
+                        "startLines": "43,44,45,46",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3915,3974,4021,4172",
+                        "endColumns": "58,46,150,111",
+                        "endOffsets": "3969,4016,4167,4279"
+                    }
+                }
+            ]
+        }
+    ]
+}
